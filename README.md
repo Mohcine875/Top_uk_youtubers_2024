@@ -1,7 +1,7 @@
 # Data Portfolio: Excel to Power BI 
 
 
-C:\Users\Administrateur\Downloads\POWER BI PORTFOLIO\sdw-online-top_uk_youtubers_2024-e1287e2\sdw-online-top_uk_youtubers_2024-e1287e2\assets\images/kaggle_to_powerbi.gif)
+![Description de l'image](assets/images/kaggle_to_powerbi.gif)
 
 
 
