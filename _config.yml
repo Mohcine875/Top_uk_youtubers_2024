@@ -1,6 +1,6 @@
 title: Mohcine
-logo: C:\Users\Administrateur\Downloads\POWER BI PORTFOLIO\sdw-online-top_uk_youtubers_2024-e1287e2\sdw-online-top_uk_youtubers_2024-e1287e2\assets\images\Mohcine[377].png
+logo: C:\assets\images\Mohcine[377].png
 show_downloads: True
-remote_theme: pages-themes/minimal@v0.2.0
+remote_theme: pages-themes/slate@v0.2.0
 plugins:
 - jekyll-remote-theme 
